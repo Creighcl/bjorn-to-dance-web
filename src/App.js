@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="side-piece">
         <h3>Ludum Dare 47 Entry</h3>
-        <a href="https://ldjam.com/events/ludum-dare/47/$217987">https://ldjam.com/events/ludum-dare/47/$217987</a>
+        <a href="https://ldjam.com/events/ludum-dare/47/bjorn-to-dance">https://ldjam.com/events/ludum-dare/47/bjorn-to-dance</a>
       </div>
       <div className="side-piece">
         <h3>Leaderboards on Infamy.dev</h3>
