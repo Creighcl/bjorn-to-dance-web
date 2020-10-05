@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# bjorn-to-dance-web
+
+Website for Bjorn to Dance LD47 Submission
+
+
+# CRA STUFF:
 
 ## Available Scripts
 
