@@ -5,7 +5,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header>Bjorn to Dance</header>
+      <div className="side-piece">
+        <h3>Play In Browser on Itch.io</h3>
+        <a href="https://creighcl.itch.io/citdev-ld-47">https://creighcl.itch.io/citdev-ld-47</a>
+      </div>
+
+      <div className="side-piece">
+        <h3>Leaderboards on Infamy.dev</h3>
+        <a href="https://infamy.dev/highscore/web?id=bjorn-to-dance">https://infamy.dev/highscore/web?id=bjorn-to-dance</a>
+      </div>
     </div>
   );
 }
