@@ -14,15 +14,21 @@
 }
 
 .side-piece {
-  font-size: 18px;
+  font-size: 15px;
   margin: 0 0 32px 55%;
   padding: 18px;
   border: 1px solid white;
   background-color: rgba(0,0,0,0.4);
   width: 30%;
 }
+.side-piece h3 {
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+}
 a {
   color: #f008d4;
+  word-break: break-all;
 }
 a:hover {
   color: #f008d4;
