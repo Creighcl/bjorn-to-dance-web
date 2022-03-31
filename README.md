@@ -1,6 +1,5 @@
 # bjorn-to-dance-web
-
-# https://bjorntodance.com
+https://bjorn-to-dance-web.vercel.app/
 Website for Bjorn to Dance LD47 Submission
 
 
